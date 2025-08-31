@@ -1,20 +1,37 @@
 # BizFlow-app 
+
 Team member:
+
 Charity Loh Su Fen
+
 Nik Ahmad Fakri bin Nik Ahmad Eid
+
 Serena Lai Anthony
+
 Tham Yin Ying
+
 Han Chia En
+
 Problem Statement and Solution Summary:
+
 Companies struggle with late invoices, overspending, poor cash flow, scattered communications, and disjointed inventory and purchasing. These problems slow down decision-making and put your entire operation at risk.
+
 BizFlow is an all-in-one business operations management platform. 
+
 Technology Stack: 
+
 Frontend → React, TypeScript, Shadcn/UI + Tailwind CSS, Recharts
+
 Backend → React, TypeScript, Shadcn/UI + Tailwind CSS, Recharts
+
 Database → PostgreSQL, Firebase
+
 Authentication → Custom auth, LocalStorage sessions
+
 Deployment → pnpm, Vite
+
 Integrations → CSV, PDF, Excel exports
+
 Set up instruction:
 
 Node.js (v18 or higher) is installed on your system.
